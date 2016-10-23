@@ -1,0 +1,4 @@
+- Clean the dataset
+- Aggregate the data
+- Link data with JSON
+- Show the data on the map
