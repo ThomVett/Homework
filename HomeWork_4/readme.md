@@ -46,9 +46,8 @@ This is useful for ROC plot
 
 
 -------------------
-This I found good for ROC plot
+This I found good for ROC plot too.
 -----------------
-# Run classifier with cross-validation and plot ROC curves
     cv = StratifiedKFold(n_splits=6)
     classifier = svm.SVC(kernel='linear', probability=True,
                          random_state=random_state)
